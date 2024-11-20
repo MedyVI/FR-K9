@@ -2,7 +2,7 @@
 
  ### Here is one of my first attempts at creating a website. This is the portal for a dog trainer.
 
-### -> Structure :
+### Structure :
 
 - Home Page
 - Registration form
